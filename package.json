@@ -1,0 +1,9 @@
+{
+   "name": "jam-microsite",
+   "description": "Express app",
+   "version": "0.0.1",
+   "dependencies": {
+      "nodemailer": "*",
+      "pin": "*"
+   }
+}
