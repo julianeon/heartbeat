@@ -49,6 +49,6 @@ function pingsite(site,seconds){
   });
 }
 
-pingsite('http://reddit.com',9);
+pingsite('http://www.slate.com',9);
 pingsite('http://s3.amazonaws.com/heroku_pages/error.html/',10);
 
